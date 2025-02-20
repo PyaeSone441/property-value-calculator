@@ -1,0 +1,2 @@
+<h1>Property Value Prediction Web Application </h1>
+This project is a machine learning project to calculate the resale value of HDB, based on various features like floor area, flat model, town. The backend is built with python and flask. Machine model used for prediction is xgboost.
